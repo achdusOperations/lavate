@@ -33,7 +33,7 @@ background-color: #94b8d3 !important;
 }
 /*navigation*/
 body.cco_body #header.on-scroll #tabContentMain .co_menu_item span.parent a{
-    color:#0f5791 !important;
+    color:#0f4167 !important;
 }
 /*hero text*/
 .hp-table .hp-row .promo_slider .slider .cycle-caption p big{
@@ -79,5 +79,5 @@ filter: brightness(0) saturate(100%) invert(100%) sepia(100%) saturate(0%) hue-r
 }
 #footer *{
     font-weight: bold !important;
-    color:#0f4167 !important;
+    color:#fff !important;
 }
