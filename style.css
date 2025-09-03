@@ -7,7 +7,7 @@
     font-weight:400 !important;
 }
 
-h1,h2hh3,h4,h5{
+h1,h2,h3,h4,h5{
     text-transform: capitalize !important;
     letter-spacing: 5px !important;
 }
@@ -15,6 +15,10 @@ h1,h2hh3,h4,h5{
 /*making buttons round edges*/
 .message .wrapper .widget_content .readMore, .hp-table .hp-row-first .promo_slider .slider .cycle-caption .readMore, .latest_photos .readMore span, body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a, .hp-table>:not(:first-child) .promo_slider .cycle-caption .readMore {
     border-radius: 25px !important;
+
+}
+.message .wrapper .widget_content .readMore:hover, .hp-table .hp-row-first .promo_slider .slider .cycle-caption .readMore:hover, .latest_photos .readMore span:hover, body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a:hover, .hp-table>:not(:first-child) .promo_slider .cycle-caption .readMore:hover {
+background-color: #94b8d3 !important;
 }
 
 /* images roundish*/
