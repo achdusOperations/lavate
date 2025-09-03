@@ -31,6 +31,9 @@ h1,h2hh3,h4,h5{
     background-image: url("https://lavate.la/media/images/1333/YRyE13331136.png") !important;
     background-size: cover !important;
 }
+.widget-4.message.custom.v380.feed h5, .widget-4.message.custom.v380.feed .bottom_padding{
+    color:#0f4167 !important;
+}
 /*i would like to*/
 #BodyContainer > div > div.g960 > div > div.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.no_margin.g960.no_margin > div > div:nth-child(4){
     background-image: url("https://lavate.la/media/images/1333/tHTz13331138.png") !important;
