@@ -64,7 +64,7 @@ filter: brightness(0) saturate(100%) invert(100%) sepia(100%) saturate(0%) hue-r
 [class*=widget-] .widget_header.widget_header h5{
     color:#0f4167 !important;
 }
-.hp_content_wrapper [class*=widget-].magazine .item .title, .hp_content_wrapper [class*=widget-].magazine .item .title a, .hp_content_wrapper [class*=widget-].candlelighting .candlelighting_content .times_wrapper .bold.large{
+.hp_content_wrapper [class*=widget-].magazine .item .title, .hp_content_wrapper [class*=widget-].magazine .item .title a, .hp_content_wrapper [class*=widget-].candlelighting .candlelighting_content .times_wrapper .bold.large, [class^=widget-].candlelighting a{
     color:#0f5791 !important;
 }
     /*footer*/
