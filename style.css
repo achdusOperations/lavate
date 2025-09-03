@@ -4,6 +4,7 @@
 /*font*/
 *{
     font-family: "Mulish", sans-serif !important;
+    font-weight:200 !important;
 }
 /*making buttons round edges*/
 .message .wrapper .widget_content .readMore, .hp-table .hp-row-first .promo_slider .slider .cycle-caption .readMore, .latest_photos .readMore span, body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a, .hp-table>:not(:first-child) .promo_slider .cycle-caption .readMore {
