@@ -1,3 +1,10 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+/*font*/
+*{
+    font-family: "Mulish", sans-serif !important;
+}
 /*making buttons round edges*/
 .message .wrapper .widget_content .readMore, .hp-table .hp-row-first .promo_slider .slider .cycle-caption .readMore, .latest_photos .readMore span, body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a, .hp-table>:not(:first-child) .promo_slider .cycle-caption .readMore {
     border-radius: 25px !important;
@@ -10,13 +17,13 @@
 
 /*donate section background*/
 #BodyContainer > div > div.g960 > div > div.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.no_margin.g960.no_margin > div > div:nth-child(2){
-    background-color: #0f4167 !important;
+    background-image: https://lavate.la/media/images/1333/YRyE13331136.png !important;
 }
 /*i would like to*/
 #BodyContainer > div > div.g960 > div > div.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.no_margin.g960.no_margin > div > div:nth-child(4){
-    background-color: #0f5791 !important;
+    background-image: https://lavate.la/media/images/1333/tHTz13331138.png !important;
 }
 /*footer*/
 #footer{
-    background-color: #94b8d3 !important;
+    background-image: https://lavate.la/media/images/1333/sPBo13331140.png !important;
 }
