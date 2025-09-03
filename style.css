@@ -61,3 +61,7 @@ background-color: #94b8d3 !important;
     background-image: url("https://lavate.la/media/images/1333/sPBo13331140.png") !important;
     background-size: cover !important;
 }
+#footer *{
+    font-weight: bold !important;
+    color:#0f4167 !important;
+}
