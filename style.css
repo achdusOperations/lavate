@@ -56,6 +56,12 @@ background-color: #94b8d3 !important;
 #BodyContainer > div > div.g960 > div > div.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.no_margin.g960.no_margin > div > div:nth-child(4) *{
     color:#fff !important;
 }
+
+/*widgets*/
+.icon .widget_content .item .icon img{
+filter: brightness(0) saturate(100%) invert(82%) sepia(12%) saturate(846%) hue-rotate(170deg) brightness(85%) contrast(93%);
+}
+
     /*footer*/
 #footer{
     background-image: url("https://lavate.la/media/images/1333/sPBo13331140.png") !important;
