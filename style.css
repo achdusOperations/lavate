@@ -17,13 +17,13 @@
 
 /*donate section background*/
 #BodyContainer > div > div.g960 > div > div.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.no_margin.g960.no_margin > div > div:nth-child(2){
-    background-image: "https://lavate.la/media/images/1333/YRyE13331136.png" !important;
+    background-image: url("https://lavate.la/media/images/1333/YRyE13331136.png") !important;
 }
 /*i would like to*/
 #BodyContainer > div > div.g960 > div > div.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.no_margin.g960.no_margin > div > div:nth-child(4){
-    background-image: "https://lavate.la/media/images/1333/tHTz13331138.png" !important;
+    background-image: url("https://lavate.la/media/images/1333/tHTz13331138.png") !important;
 }
 /*footer*/
 #footer{
-    background-image: "https://lavate.la/media/images/1333/sPBo13331140.png" !important;
+    background-image: url("https://lavate.la/media/images/1333/sPBo13331140.png") !important;
 }
