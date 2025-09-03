@@ -15,6 +15,7 @@ h1,h2,h3,h4,h5{
 /*making buttons round edges*/
 .message .wrapper .widget_content .readMore, .hp-table .hp-row-first .promo_slider .slider .cycle-caption .readMore, .latest_photos .readMore span, body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a, .hp-table>:not(:first-child) .promo_slider .cycle-caption .readMore {
     border-radius: 25px !important;
+    border-color: #0f4167 !important;
 
 }
 .message .wrapper .widget_content .readMore:hover, .hp-table .hp-row-first .promo_slider .slider .cycle-caption .readMore:hover, .latest_photos .readMore span:hover, body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a:hover, .hp-table>:not(:first-child) .promo_slider .cycle-caption .readMore:hover {
@@ -28,6 +29,10 @@ background-color: #94b8d3 !important;
 /*images background*/
 .sneak-peek-container .sneak_peek .widget_content h6:hover{
     background: #94b8d3 !important;
+}
+/*hero text*/
+.hp-table .hp-row .promo_slider .slider .cycle-caption p big{
+    color:#fff !important;
 }
 
 /*donate section background*/
