@@ -79,9 +79,7 @@ filter: brightness(0) saturate(100%) invert(100%) sepia(100%) saturate(0%) hue-r
 .hp_content_wrapper [class*=widget-].magazine .item .title, .hp_content_wrapper [class*=widget-].magazine .item .title a, .hp_content_wrapper [class*=widget-].candlelighting .candlelighting_content .times_wrapper .bold.large, [class^=widget-].candlelighting a{
     color:#0f5791 !important;
 }
-.hp_content_wrapper .readMore{
-    padding-bottom:30px !important;
-}
+
     /*footer*/
 #footer{
     background-image: url("https://lavate.la/media/images/1333/sPBo13331140.png") !important;
