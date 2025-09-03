@@ -13,13 +13,13 @@ h1,h2,h3,h4,h5, .widget_header h5{
 }
 
 /*making buttons round edges*/
-.message .wrapper .widget_content .readMore, .hp-table .hp-row-first .promo_slider .slider .cycle-caption .readMore, .latest_photos .readMore span, body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a, .hp-table>:not(:first-child) .promo_slider .cycle-caption .readMore {
+.hp_content_wrapper .readMore,.message .wrapper .widget_content .readMore, .hp-table .hp-row-first .promo_slider .slider .cycle-caption .readMore, .latest_photos .readMore span, body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a, .hp-table>:not(:first-child) .promo_slider .cycle-caption .readMore {
     border-radius: 25px !important;
     border-color: #0f4167 !important;
 
 }
 
-.message .wrapper .widget_content .readMore:hover, .hp-table .hp-row-first .promo_slider .slider .cycle-caption .readMore:hover, .latest_photos .readMore span:hover, body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a:hover, .hp-table>:not(:first-child) .promo_slider .cycle-caption .readMore:hover {
+.hp_content_wrapper .readMore:hover,.message .wrapper .widget_content .readMore:hover, .hp-table .hp-row-first .promo_slider .slider .cycle-caption .readMore:hover, .latest_photos .readMore span:hover, body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a:hover, .hp-table>:not(:first-child) .promo_slider .cycle-caption .readMore:hover {
 background-color: #94b8d3 !important;
 }
 
@@ -32,8 +32,9 @@ background-color: #94b8d3 !important;
     background: #94b8d3 !important;
 }
 /*navigation*/
-body.cco_body #header.on-scroll #tabContentMain .co_menu_item span.parent a{
+body.cco_body #header.on-scroll #tabContentMain .co_menu_item span.parent a, body.cco_body #tabContentMain .co_menu_item.hover span.parent a{
     color:#0f4167 !important;
+    
 }
 /*hero text*/
 .hp-table .hp-row .promo_slider .slider .cycle-caption p big{
@@ -72,7 +73,7 @@ body.cco_body #header.on-scroll #tabContentMain .co_menu_item span.parent a{
 .icon .widget_content .item .icon img{
 filter: brightness(0) saturate(100%) invert(100%) sepia(100%) saturate(0%) hue-rotate(254deg) brightness(102%) contrast(101%);
 }
-[class*=widget-] .widget_header.widget_header h5{
+[class*=widget-] .widget_header.widget_header h5, .hp_content_wrapper .readMore{
     color:#0f4167 !important;
 }
 .hp_content_wrapper [class*=widget-].magazine .item .title, .hp_content_wrapper [class*=widget-].magazine .item .title a, .hp_content_wrapper [class*=widget-].candlelighting .candlelighting_content .times_wrapper .bold.large, [class^=widget-].candlelighting a{
