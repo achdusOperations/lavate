@@ -92,3 +92,28 @@ filter: brightness(0) saturate(100%) invert(100%) sepia(100%) saturate(0%) hue-r
     font-weight: bold !important;
     color:#fff !important;
 }
+
+/*mobile navigation*/
+@media (max-width: 1024px) {
+    .on-scroll .cs-mobile-menu-open {
+        color:#0f5791 !important;
+    }
+}
+/*donate page*/
+#confirm-wrapper #confirm, #donate-wrapper #donate{
+    border-radius:25px !important;
+    background-color:rgba(15, 65, 103, .94) !important;
+}
+
+#donate-wrapper main h1, #donate-wrapper #donate .monthly-note{
+    color:#fff !important;
+}
+
+#donate-wrapper main .amounts button{
+    background-color: #fff !important;
+    color:#0f4167 !important;
+}
+
+#donate-wrapper main .amounts button:hover{
+    box-shadow: 0 0 40px 40px #0f5791 inset !important;
+}
