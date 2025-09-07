@@ -41,7 +41,7 @@ body.cco_body #header.on-scroll #tabContentMain .co_menu_item span.parent a, bod
 }
 /*mobile navigation*/
 @media (max-width: 1024px) {
-    .on-scroll .cs-mobile-menu-open {
+    .on-scroll .cs-mobile-menu-open, .not-homepage body .cs-mobile-menu-open, body:not(.home) .cs-mobile-menu-open {
         color:#0f5791 !important;
     }
    
