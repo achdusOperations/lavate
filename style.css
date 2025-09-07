@@ -39,6 +39,16 @@ body.cco_body #header.on-scroll #tabContentMain .co_menu_item span.parent a, bod
     color:#0f4167 !important;
     
 }
+/*mobile navigation*/
+@media (max-width: 1024px) {
+    .on-scroll .cs-mobile-menu-open {
+        color:#0f5791 !important;
+    }
+   
+        .site-nav-wrapper{
+            background-color: #0f5791 !important;
+        }
+}
 /*b"h*/
 #header.on-scroll #header_container .links:after, body.sites-article #header_container .links:after{
     color:#94b8d3
@@ -100,12 +110,7 @@ filter: brightness(0) saturate(100%) invert(100%) sepia(100%) saturate(0%) hue-r
     color:#fff !important;
 }
 
-/*mobile navigation*/
-@media (max-width: 1024px) {
-    .on-scroll .cs-mobile-menu-open {
-        color:#0f5791 !important;
-    }
-}
+
 /*donate page*/
 #confirm-wrapper #confirm, #donate-wrapper #donate{
     border-radius:25px !important;
