@@ -115,7 +115,7 @@ filter: brightness(0) saturate(100%) invert(100%) sepia(100%) saturate(0%) hue-r
 /*donate page*/
 #confirm-wrapper #confirm, #donate-wrapper #donate{
     border-radius:25px !important;
-    background-color:rgba(148, 184, 211 .94) !important;
+    background-color:rgba(148, 184, 211,.94) !important;
 }
 
 #donate-wrapper main h1, #donate-wrapper #donate .monthly-note{
